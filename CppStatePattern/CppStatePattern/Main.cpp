@@ -1,4 +1,5 @@
 #include "DxLib.h"
+#include <magic_enum.hpp>
 
 const char* TITLE = "Untitled";
 const int WIN_WIDTH = 960;
@@ -13,7 +14,7 @@ int WINAPI WinMain(_In_ HINSTANCE hInstance, _In_opt_ HINSTANCE hPrevInstance, _
     SetWindowSizeExtendRate(1.0);
     SetBackgroundColor(35, 35, 35);
     SetDrawScreen(DX_SCREEN_BACK);
-
+    
     if (DxLib_Init() == -1) { return -1; }
 
     while (true)
