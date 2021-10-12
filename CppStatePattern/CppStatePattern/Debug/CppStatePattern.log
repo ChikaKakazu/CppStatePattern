@@ -1,12 +1,1 @@
-﻿  EndState.cpp
-  Game.cpp
-E:\C++Projects\CppStatePattern\CppStatePattern\CppStatePattern\Game.h(21,15): warning C4114: 同じ型修飾子が 2 度以上使われています。
-E:\C++Projects\CppStatePattern\CppStatePattern\CppStatePattern\Game.h(22,15): warning C4114: 同じ型修飾子が 2 度以上使われています。
-E:\C++Projects\CppStatePattern\CppStatePattern\CppStatePattern\Game.cpp(28,38): warning C4305: 'return': 'int' から 'bool' へ切り詰めます。
-  GameMainState.cpp
-  Main.cpp
-E:\C++Projects\CppStatePattern\CppStatePattern\CppStatePattern\Game.h(21,15): warning C4114: 同じ型修飾子が 2 度以上使われています。
-E:\C++Projects\CppStatePattern\CppStatePattern\CppStatePattern\Game.h(22,15): warning C4114: 同じ型修飾子が 2 度以上使われています。
-  TitleState.cpp
-  コードを生成中...
-  CppStatePattern.vcxproj -> E:\C++Projects\CppStatePattern\CppStatePattern\Debug\CppStatePattern.exe
+﻿  CppStatePattern.vcxproj -> E:\C++Projects\CppStatePattern\CppStatePattern\Debug\CppStatePattern.exe
